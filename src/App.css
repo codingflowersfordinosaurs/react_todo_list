@@ -13,3 +13,20 @@ a {
   text-decoration: none;
   color: #333;
 }
+/* if you choose to wrap a div.container around your components
+.container {
+  padding: 0 1rem;
+} */
+
+.btn {
+  display: inline-block;
+  border: none;
+  background: #555;
+  color: #fff;
+  padding: 7px 20px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #666;
+}
